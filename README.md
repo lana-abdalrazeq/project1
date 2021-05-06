@@ -5,5 +5,5 @@ This database consists from tables, the first one is for contacts and the other 
 on visual studio code, perform the below:
  ** open the project files.
  ** open terminal, and install mySQL driver using " npm install mySQL".
- ** to run the app that will show the appointments for the current month, week and day use "app.js".
+ ** to run the app that will show the appointments for the current month, week and day use " node app.js".
  
