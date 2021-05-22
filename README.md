@@ -1,9 +1,10 @@
 # project1
-The Project Is A Database For Booking An Appointments
-This database consists from tables, the first one is for contacts and the other is for appointments. To run this project, the project files must be downloaded and then activate visual studio code with xammp ( start Apache and mySQL). 
+The Project Is A Database For Booking An Appointments.
 
-on visual studio code, perform the below:
- ** open the project files.
- ** open terminal, and install mySQL driver using " npm install mySQL".
+To run this project:
+
+ **go to visual studio code and open the project files .
+ ** start the apache and mySQL in XAMMP.
+ ** open terminal, and install mySQL driver using " npm install mySQL" and import the database using "npm init -y"
  ** to run the app that will show the appointments for the current month, week and day use " node app.js".
  
